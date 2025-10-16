@@ -1,0 +1,48 @@
+configVersion: 1.0.0
+coreVersion: 5.8.2
+spaHostVersion: 1.0.0
+device: PIC32MM0064GPL020
+deviceLibrary:
+  className: null
+groupModules: []
+modules:
+- core
+- dfp
+- rcon
+generatedFileHashHistoryMap:
+- file: ..\src\config\default\definitions.h
+  hash: d66086b2b6afa19f76bc2d4e9eacb827f00833fe30b95535e815ec82cd8237f7
+- file: ..\src\config\default\device.h
+  hash: 4d4341a6f9628cea0bf73f980b639f7cb81089e55a60ad7e434be2a71e477442
+- file: ..\src\config\default\exceptions.c
+  hash: 265c985839caadb2fa9e8fc76e7bc3c160e31e9b2c96dc4006add33e5d7ee212
+- file: ..\src\config\default\initialization.c
+  hash: 3abefe53d5d05176fb869afd00f1aaacda227c2de93589e45df19c257604326f
+- file: ..\src\config\default\interrupts.c
+  hash: 7efd0ff3fc047105e2eba209052caa96a4d0750d8c83515bf22f433470bf156d
+- file: ..\src\config\default\interrupts.h
+  hash: 2b6f3a9da8b2f61b5ea3f584838ad851b151646b5fda0fb709cc05e65576fd37
+- file: ..\src\config\default\p32MM0064GPL020.ld
+  hash: 71fb72843d0e291f775b5b1260200772e4da9c6a173f7ffab495312aa149ed40
+- file: ..\src\config\default\peripheral\clk\plib_clk.c
+  hash: 88aa14e8105890d35645c4f8d5edc55b9752a895aa318f9b2d3c61f1fed64d59
+- file: ..\src\config\default\peripheral\clk\plib_clk.h
+  hash: 35384f2e13e59b7190bf77f6996baf3ea2377ec42df94979a6f793326def5255
+- file: ..\src\config\default\peripheral\evic\plib_evic.c
+  hash: c020fb3db0af248982284f5c3233e1f0ba64584e2dea14f533217f2e347504cc
+- file: ..\src\config\default\peripheral\evic\plib_evic.h
+  hash: 4e751bde98d6d45c1743efee8c9b14ab6f5bc030868ae8a990bd2753b3c58804
+- file: ..\src\config\default\peripheral\gpio\plib_gpio.c
+  hash: 6ff3c143027a22cf17591302c75044906fcc14b61e6d273b3cac396d5794983d
+- file: ..\src\config\default\peripheral\gpio\plib_gpio.h
+  hash: d8726f635c7b444c60a11ea3f8ef9a04f79cdb1368c4efd56316d08e188f6d1f
+- file: ..\src\config\default\peripheral\rcon\plib_rcon.c
+  hash: 4bd00d8b90d58fd729f6ac48a9578b861743231ca040f2be31afb6ed0384e34e
+- file: ..\src\config\default\peripheral\rcon\plib_rcon.h
+  hash: 83989d4e31666ba4c0a1eadf82290ac1ac41ed7a778d0c5c7fd6e55af768ce1c
+- file: ..\src\config\default\stdio\xc32_monitor.c
+  hash: 858f8710d4287200a5ee7f3b3ad7c24f505aed9c05c16956ab0ff9f7bb162a6a
+- file: ..\src\config\default\toolchain_specifics.h
+  hash: b4de6e02e3e48c62f7ba233405ffdf6ef31bb971d1a7b49efa1676f45cabc1ac
+- file: ..\src\main.c
+  hash: d3c233d419e6304bfacbafc18cc68c0f5c26e365f23b20ea40ccfac458f664c5

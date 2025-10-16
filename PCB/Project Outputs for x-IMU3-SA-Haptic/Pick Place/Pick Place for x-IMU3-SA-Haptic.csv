@@ -1,0 +1,31 @@
+Altium Designer Pick and Place Locations
+C:\MyFiles\x-io\Products\x-IMU3\x-IMU3-SA-Haptic\PCB\Project Outputs for x-IMU3-SA-Haptic\Pick Place\Pick Place for x-IMU3-SA-Haptic.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       15/10/25
+Time:       22:08
+Revision:   984cebb65ec8dec48b194a788b0ccfda68243a5a
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Comment"
+"C7","30.7000mm","17.5000mm","BottomLayer","0","47uF"
+"C6","33.8000mm","19.5000mm","BottomLayer","180","47uF"
+"U2","28.0000mm","18.2500mm","BottomLayer","0","DRV2605LYZF"
+"U1","26.0000mm","13.0000mm","BottomLayer","90","PIC32MM0064GPL020-I/ML"
+"R5","31.0000mm","15.5000mm","BottomLayer","180","470R"
+"R4","25.5000mm","17.7500mm","BottomLayer","180","2.2kR"
+"R3","25.5000mm","19.0000mm","BottomLayer","180","2.2kR"
+"R2","31.0000mm","14.2500mm","BottomLayer","180","470R"
+"R1","29.2500mm","12.0000mm","BottomLayer","270","10kR"
+"M1","34.0000mm","20.0000mm","TopLayer","30","VG0832014L"
+"J2","33.4600mm","10.5000mm","BottomLayer","180","DNP"
+"J1","36.0000mm","15.0000mm","TopLayer","180","SP-3533-02"
+"D1","34.5000mm","17.5000mm","BottomLayer","180","PMEG2010ER115"
+"C5","30.7000mm","19.5000mm","BottomLayer","0","47uF"
+"C4","28.0000mm","19.7500mm","BottomLayer","180","1uF"
+"C3","28.0000mm","16.7500mm","BottomLayer","180","1uF"
+"C2","24.5000mm","16.2500mm","BottomLayer","0","10uF"
+"C1","29.2500mm","14.0000mm","BottomLayer","270","100nF"
